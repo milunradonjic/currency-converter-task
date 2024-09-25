@@ -29,7 +29,7 @@ This is a command-line application that converts currencies while accounting for
    cp .env.example .env
    ```
 
-4. Add your [Signaloid API Key](https://docs.signaloid.io/docs/api/#authentication) to the `.env` file.
+4. Add your [Signaloid API Key](https://docs.signaloid.io/docs/platform/user-interface/settings/#compute-engine) to the `.env` file.
 
 ## Usage
 
